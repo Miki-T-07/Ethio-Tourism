@@ -54,6 +54,9 @@ flutter:
     - family: Raleway
       fonts:
         - asset: assets/fonts/Raleway.ttf
+    - family: Indie
+      fonts:
+        - asset: assets/fonts/Indie-Flower.ttf
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
