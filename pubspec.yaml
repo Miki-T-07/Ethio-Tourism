@@ -50,6 +50,11 @@ flutter:
   assets:
     - assets/images/
 
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway.ttf
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
