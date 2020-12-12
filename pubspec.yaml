@@ -63,6 +63,9 @@ flutter:
     - family: Cardo
       fonts:
         - asset: assets/fonts/Cardo-Italic.ttf
+    - family: Neucha
+      fonts:
+        - asset: assets/fonts/Neucha-Regular.ttf
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
